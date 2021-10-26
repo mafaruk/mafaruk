@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @mafaruk
-- 👀 I’m interested in coding, softwares, football, F1, & violin
-- 📫 How to reach me bagwannihal4@gmail.com
+

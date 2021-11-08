@@ -1,3 +1,3 @@
 #Hi,
-#I'm Mafaruk
-#am a Computer Science Engineer 
+I'm Mafaruk
+am a Computer Science Engineer 

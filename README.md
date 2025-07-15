@@ -1,4 +1,4 @@
-# Mafaruk Faruk Bagwan
+# [Mafaruk Faruk Bagwan](https://mafarukbagwan4.netlify.app/)
 
 📧 [bagwannihal4@gmail.com](mailto:bagwannihal4@gmail.com)  
 📞 +91 9767557303  

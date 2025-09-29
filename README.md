@@ -28,6 +28,10 @@ Passionate about delivering high-quality, maintainable software solutions that a
 ## 🧪 Professional Experience
 
 ### 💼 Java Full Stack Developer  
+**Deloitte, Pune**  
+_September 2025 - Present_
+
+### 💼 Java Full Stack Developer  
 **KPIT Technologies Ltd., Pune**  
 _March 2022 – September 2025_
 

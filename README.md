@@ -29,7 +29,7 @@ Passionate about delivering high-quality, maintainable software solutions that a
 
 ### 💼 Java Full Stack Developer  
 **KPIT Technologies Ltd., Pune**  
-_March 2022 – Present_
+_March 2022 – September 2025_
 
 - Designed and developed enterprise-grade backend systems using Core Java, multithreading, collections, and design patterns.  
 - Built scalable and modular microservices using Spring Boot, JPA, Hibernate ORM, implementing REST APIs, exception handling, and validation.  
